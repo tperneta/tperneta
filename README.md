@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tiago Perneta @tperneta
+- 👀 I’m interested in Web Design and Frontend Development
+- 🌱 I’m currently learning Javascript, React and UI/UX Design
+- 💞️ I’m looking to collaborate on Apps and Software Development
+- 📫 You can reach me at taperneta@gmail.com
